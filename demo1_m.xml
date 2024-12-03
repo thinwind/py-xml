@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><slideshow>
+    <title id="A0123">Demo slideshow</title>
+    <slide>
+        <title id="B1001">Slide title</title>
+        <point>This is a demo</point>
+        <point>Of a program for processing slides</point>
+    </slide>
+    <slide>
+        <title id="B1002">Another demo
+         slide</title>
+        <point>It is important</point>
+        <point>To have more than</point>
+        <point>one slide</point>
+    </slide>
+</slideshow>
